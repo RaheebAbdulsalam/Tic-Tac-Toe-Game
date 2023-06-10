@@ -2,14 +2,16 @@
 
 This is a simple implementation of the Tic-Tac-Toe game using JavaFX. The game allows two players to take turns placing their symbols (X and O) on a 3x3 grid. The first player to form a line of three symbols in a row, column, or diagonal wins the game. If no player achieves a winning line and the grid is filled, the game is considered a draw.
 
-##How to Play
--Launch the game.
--The grid will be displayed with nine buttons representing the cells.
--Players take turns clicking on an empty cell to place their symbol.
--The game will automatically determine if a player has won or if the game is a draw.
--To restart the game, click the "Restart" button.
+## How to Play
+- Launch the game.
+- The grid will be displayed with nine buttons representing the cells.
+- Players take turns clicking on an empty cell to place their symbol.
+- The game will automatically determine if a player has won or if the game is a draw.
+- To restart the game, click the "Restart" button.
 
-<img src="">
+<div align="center">
+<img src="https://github.com/RaheebAbdulsalam/Password-Generator-App/assets/99501966/93caa497-f03c-47b0-987e-78c3f3b990cf" alt="app interface" width="500" height="400">
+  </div>
 
 ##Project Structure
 The project follows a standard Maven directory structure:
