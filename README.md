@@ -11,7 +11,7 @@ This is a simple implementation of the Tic-Tac-Toe game using JavaFX. The game a
 
 <div align="center">
 <img src="https://github.com/RaheebAbdulsalam/Tic-Tac-Toe-Game/blob/RaheebAbdulsalam/Game%20Interface%201.png" alt="app interface" width="500" height="400">
-  <img src="" alt="app interface" width="500" height="400">
+  <img src="https://github.com/RaheebAbdulsalam/Tic-Tac-Toe-Game/blob/RaheebAbdulsalam/Game%20interface%202.png" alt="app interface" width="500" height="400">
   </div>
 
 ##Project Structure
