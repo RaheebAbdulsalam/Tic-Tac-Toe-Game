@@ -10,7 +10,8 @@ This is a simple implementation of the Tic-Tac-Toe game using JavaFX. The game a
 - To restart the game, click the "Restart" button.
 
 <div align="center">
-<img src="https://github.com/RaheebAbdulsalam/Password-Generator-App/assets/99501966/93caa497-f03c-47b0-987e-78c3f3b990cf" alt="app interface" width="500" height="400">
+<img src="https://github.com/RaheebAbdulsalam/Password-Generator-App/assets/99501966/93caa497-f03c-47b0-987e-78c3f3b990cf](https://github.com/RaheebAbdulsalam/Tic-Tac-Toe-Game/blob/RaheebAbdulsalam/Game%20Interface%201.png?raw=true" alt="app interface" width="500" height="400">
+  <img src="https://github.com/RaheebAbdulsalam/Password-Generator-App/assets/99501966/93caa497-f03c-47b0-987e-78c3f3b990cf](https://github.com/RaheebAbdulsalam/Tic-Tac-Toe-Game/blob/RaheebAbdulsalam/Game%20Interface%201.png?raw=true" alt="app interface" width="500" height="400">
   </div>
 
 ##Project Structure
