@@ -1,0 +1,8 @@
+Button {
+
+    -fx-border-color:  #762480;
+    -fx-border-width: 1px;
+    -fx-background-color: white;
+    -fx-background-radius: 20px;
+    -fx-font-style:bold ;
+}
